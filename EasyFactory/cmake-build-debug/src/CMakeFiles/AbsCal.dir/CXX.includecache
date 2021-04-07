@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/AbstractCalculator.h
+iostream
+-
+
+../include/SubCalculator.h
+iostream
+-
+AbstractCalculator.h
+../include/AbstractCalculator.h
+
+/home/liudiyang1998/Documents/cplus/EasyFactory/src/SubCalculator.cpp
+SubCalculator.h
+/home/liudiyang1998/Documents/cplus/EasyFactory/src/SubCalculator.h
+

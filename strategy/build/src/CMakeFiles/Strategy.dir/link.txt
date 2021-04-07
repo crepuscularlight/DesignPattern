@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/Strategy.dir/main.o  -o ../bin/Strategy libLIB.a 

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libAbsCal.a  CMakeFiles/AbsCal.dir/AbstractCalculator.cpp.o
+/usr/bin/ranlib libAbsCal.a

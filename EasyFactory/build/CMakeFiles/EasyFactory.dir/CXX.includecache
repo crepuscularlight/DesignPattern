@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/liudiyang1998/Documents/cplus/EasyFactory/include/AbstractCalculator.h
+
+/home/liudiyang1998/Documents/cplus/EasyFactory/src/AbstractCalculator.cpp
+../include/AbstractCalculator.h
+/home/liudiyang1998/Documents/cplus/EasyFactory/include/AbstractCalculator.h
+
+/home/liudiyang1998/Documents/cplus/EasyFactory/src/main.cpp
+iostream
+-
+../include/AbstractCalculator.h
+/home/liudiyang1998/Documents/cplus/EasyFactory/include/AbstractCalculator.h
+

@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+.././include/CashContext.h
+CashSuper.h
+.././include/CashSuper.h
+CashNormal.h
+.././include/CashNormal.h
+CashDiscount.h
+.././include/CashDiscount.h
+cstddef
+-
+
+.././include/CashDiscount.h
+CashSuper.h
+.././include/CashSuper.h
+
+.././include/CashNormal.h
+CashSuper.h
+.././include/CashSuper.h
+
+.././include/CashSuper.h
+
+/home/liudiyang1998/Documents/cplus/strategy/src/CashContext.cpp
+CashContext.h
+/home/liudiyang1998/Documents/cplus/strategy/src/CashContext.h
+
+/home/liudiyang1998/Documents/cplus/strategy/src/CashDiscount.cpp
+CashDiscount.h
+/home/liudiyang1998/Documents/cplus/strategy/src/CashDiscount.h
+
+/home/liudiyang1998/Documents/cplus/strategy/src/CashNormal.cpp
+CashNormal.h
+/home/liudiyang1998/Documents/cplus/strategy/src/CashNormal.h
+
+/home/liudiyang1998/Documents/cplus/strategy/src/CashSuper.cpp
+CashSuper.h
+/home/liudiyang1998/Documents/cplus/strategy/src/CashSuper.h
+
