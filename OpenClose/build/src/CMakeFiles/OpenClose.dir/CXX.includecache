@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+.././include/Book.h
+iostream
+-
+
+.././include/BookStore.h
+Book.h
+.././include/Book.h
+Novel.h
+.././include/Novel.h
+vector
+-
+
+.././include/Novel.h
+Book.h
+.././include/Book.h
+
+/home/liudiyang1998/Documents/cplus/OpenClose/src/main.cpp
+Book.h
+/home/liudiyang1998/Documents/cplus/OpenClose/src/Book.h
+Novel.h
+/home/liudiyang1998/Documents/cplus/OpenClose/src/Novel.h
+BookStore.h
+/home/liudiyang1998/Documents/cplus/OpenClose/src/BookStore.h
+

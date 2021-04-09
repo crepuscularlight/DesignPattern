@@ -1,0 +1,7 @@
+/snap/clion/149/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/liudiyang1998/Documents/cplus/OpenClose
+CMake Error at src/CMakeLists.txt:4 (target_link_directories):
+  target_link_directories called with invalid arguments
+
+
+-- Configuring incomplete, errors occurred!
+See also "/home/liudiyang1998/Documents/cplus/OpenClose/cmake-build-debug/CMakeFiles/CMakeOutput.log".

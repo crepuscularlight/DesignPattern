@@ -1,0 +1,2 @@
+/usr/bin/ar qc libLIB.a  CMakeFiles/LIB.dir/Book.cpp.o CMakeFiles/LIB.dir/Novel.cpp.o CMakeFiles/LIB.dir/BookStore.cpp.o
+/usr/bin/ranlib libLIB.a

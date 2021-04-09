@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/OpenClose.dir/main.cpp.o  -o ../exe/OpenClose libLIB.a 
