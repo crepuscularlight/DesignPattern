@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+.././include/Mother.h
+Reader.h
+.././include/Reader.h
+iostream
+-
+
+.././include/News.h
+Reader.h
+.././include/Reader.h
+
+.././include/Reader.h
+iostream
+-
+
+.././include/Story.h
+Reader.h
+.././include/Reader.h
+
+/home/liudiyang1998/Documents/cplus/DependenceInversion/src/main.cpp
+iostream
+-
+Mother.h
+/home/liudiyang1998/Documents/cplus/DependenceInversion/src/Mother.h
+Story.h
+/home/liudiyang1998/Documents/cplus/DependenceInversion/src/Story.h
+News.h
+/home/liudiyang1998/Documents/cplus/DependenceInversion/src/News.h
+

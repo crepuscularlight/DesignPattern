@@ -1,0 +1,2 @@
+/usr/bin/ar qc libLIB.a  CMakeFiles/LIB.dir/Mother.cpp.o CMakeFiles/LIB.dir/News.cpp.o CMakeFiles/LIB.dir/Reader.cpp.o CMakeFiles/LIB.dir/Story.cpp.o
+/usr/bin/ranlib libLIB.a

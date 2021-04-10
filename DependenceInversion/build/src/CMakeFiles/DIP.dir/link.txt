@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/DIP.dir/main.cpp.o  -o ../bin/DIP libLIB.a 
