@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/Decorate.dir/main.cpp.o  -o ../bin/Decorate libLIB.a 

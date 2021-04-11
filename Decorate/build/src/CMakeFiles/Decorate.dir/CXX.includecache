@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Decorator.h
+Person.h
+../include/Person.h
+
+../include/Person.h
+iostream
+-
+string
+-
+
+../include/Trouser.h
+Decorator.h
+../include/Decorator.h
+
+../include/Tshirt.h
+Decorator.h
+../include/Decorator.h
+
+/home/liudiyang1998/Documents/cplus/Decorate/src/main.cpp
+iostream
+-
+Person.h
+/home/liudiyang1998/Documents/cplus/Decorate/src/Person.h
+Decorator.h
+/home/liudiyang1998/Documents/cplus/Decorate/src/Decorator.h
+Tshirt.h
+/home/liudiyang1998/Documents/cplus/Decorate/src/Tshirt.h
+Trouser.h
+/home/liudiyang1998/Documents/cplus/Decorate/src/Trouser.h
+

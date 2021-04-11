@@ -1,0 +1,2 @@
+/usr/bin/ar qc libLIB.a  CMakeFiles/LIB.dir/Person.cpp.o CMakeFiles/LIB.dir/Decorator.cpp.o CMakeFiles/LIB.dir/Trouser.cpp.o CMakeFiles/LIB.dir/Tshirt.cpp.o
+/usr/bin/ranlib libLIB.a
