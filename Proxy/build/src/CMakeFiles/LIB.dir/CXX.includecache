@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/liudiyang1998/Documents/cplus/Proxy/include/GiveGift.h
+
+/home/liudiyang1998/Documents/cplus/Proxy/include/Proxy.h
+iostream
+-
+Pursuit.h
+/home/liudiyang1998/Documents/cplus/Proxy/include/Pursuit.h
+
+/home/liudiyang1998/Documents/cplus/Proxy/include/Pursuit.h
+GiveGift.h
+/home/liudiyang1998/Documents/cplus/Proxy/include/GiveGift.h
+SchoolGirl.h
+/home/liudiyang1998/Documents/cplus/Proxy/include/SchoolGirl.h
+iostream
+-
+
+/home/liudiyang1998/Documents/cplus/Proxy/include/SchoolGirl.h
+iostream
+-
+
+/home/liudiyang1998/Documents/cplus/Proxy/src/GiveGift.cpp
+../include/GiveGift.h
+/home/liudiyang1998/Documents/cplus/Proxy/include/GiveGift.h
+
+/home/liudiyang1998/Documents/cplus/Proxy/src/Proxy.cpp
+../include/Proxy.h
+/home/liudiyang1998/Documents/cplus/Proxy/include/Proxy.h
+
+/home/liudiyang1998/Documents/cplus/Proxy/src/Pursuit.cpp
+../include/Pursuit.h
+/home/liudiyang1998/Documents/cplus/Proxy/include/Pursuit.h
+
+/home/liudiyang1998/Documents/cplus/Proxy/src/SchoolGirl.cpp
+../include/SchoolGirl.h
+/home/liudiyang1998/Documents/cplus/Proxy/include/SchoolGirl.h
+

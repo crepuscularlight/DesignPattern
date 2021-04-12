@@ -1,0 +1,2 @@
+/usr/bin/ar qc libLIB.a  CMakeFiles/LIB.dir/GiveGift.cpp.o CMakeFiles/LIB.dir/Proxy.cpp.o CMakeFiles/LIB.dir/Pursuit.cpp.o CMakeFiles/LIB.dir/SchoolGirl.cpp.o
+/usr/bin/ranlib libLIB.a

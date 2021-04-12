@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+.././include/GiveGift.h
+
+.././include/Proxy.h
+iostream
+-
+Pursuit.h
+.././include/Pursuit.h
+
+.././include/Pursuit.h
+GiveGift.h
+.././include/GiveGift.h
+SchoolGirl.h
+.././include/SchoolGirl.h
+iostream
+-
+
+.././include/SchoolGirl.h
+iostream
+-
+
+/home/liudiyang1998/Documents/cplus/Proxy/src/main.cpp
+iostream
+-
+Proxy.h
+/home/liudiyang1998/Documents/cplus/Proxy/src/Proxy.h
+
