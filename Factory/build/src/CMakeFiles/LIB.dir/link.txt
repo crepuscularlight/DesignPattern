@@ -1,0 +1,2 @@
+/usr/bin/ar qc libLIB.a  CMakeFiles/LIB.dir/LeiFeng.cpp.o CMakeFiles/LIB.dir/UndergraduateFactory.cpp.o CMakeFiles/LIB.dir/VolunteerFactory.cpp.o
+/usr/bin/ranlib libLIB.a

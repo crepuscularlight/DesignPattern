@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Factory.hpp
+LeiFeng.h
+../include/LeiFeng.h
+
+../include/LeiFeng.h
+iostream
+-
+
+../include/Undergraduate.hpp
+LeiFeng.h
+../include/LeiFeng.h
+
+../include/UndergraduateFactory.h
+Factory.hpp
+../include/Factory.hpp
+Undergraduate.hpp
+../include/Undergraduate.hpp
+
+../include/Volunteer.hpp
+LeiFeng.h
+../include/LeiFeng.h
+
+../include/VolunteerFactory.h
+Factory.hpp
+../include/Factory.hpp
+Volunteer.hpp
+../include/Volunteer.hpp
+
+/home/liudiyang1998/Documents/cplus/Factory/src/main.cpp
+iostream
+-
+Factory.hpp
+/home/liudiyang1998/Documents/cplus/Factory/src/Factory.hpp
+UndergraduateFactory.h
+/home/liudiyang1998/Documents/cplus/Factory/src/UndergraduateFactory.h
+VolunteerFactory.h
+/home/liudiyang1998/Documents/cplus/Factory/src/VolunteerFactory.h
+
