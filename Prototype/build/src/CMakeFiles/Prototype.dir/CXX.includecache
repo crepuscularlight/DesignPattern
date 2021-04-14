@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Clone.hpp
+
+../include/Resume.h
+Clone.hpp
+../include/Clone.hpp
+Work.h
+../include/Work.h
+iostream
+-
+
+../include/Work.h
+iostream
+-
+
+/home/liudiyang1998/Documents/cplus/Prototype/src/main.cpp
+Resume.h
+/home/liudiyang1998/Documents/cplus/Prototype/src/Resume.h
+

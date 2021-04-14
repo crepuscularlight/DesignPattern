@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/Prototype.dir/main.cpp.o  -o ../bin/Prototype libLIB.a 

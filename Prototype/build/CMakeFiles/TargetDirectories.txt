@@ -1,0 +1,6 @@
+/home/liudiyang1998/Documents/cplus/Prototype/build/CMakeFiles/rebuild_cache.dir
+/home/liudiyang1998/Documents/cplus/Prototype/build/CMakeFiles/edit_cache.dir
+/home/liudiyang1998/Documents/cplus/Prototype/build/src/CMakeFiles/edit_cache.dir
+/home/liudiyang1998/Documents/cplus/Prototype/build/src/CMakeFiles/LIB.dir
+/home/liudiyang1998/Documents/cplus/Prototype/build/src/CMakeFiles/rebuild_cache.dir
+/home/liudiyang1998/Documents/cplus/Prototype/build/src/CMakeFiles/Prototype.dir
