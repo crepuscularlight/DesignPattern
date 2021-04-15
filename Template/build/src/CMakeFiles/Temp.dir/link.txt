@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/Temp.dir/main.cpp.o  -o ../bin/Temp libLIB.a 
