@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/liudiyang1998/Documents/cplus/Demeter/include/CompanyManger.h
+SubCompanyManager.h
+/home/liudiyang1998/Documents/cplus/Demeter/include/SubCompanyManager.h
+Employee.h
+/home/liudiyang1998/Documents/cplus/Demeter/include/Employee.h
+
+/home/liudiyang1998/Documents/cplus/Demeter/include/Employee.h
+iostream
+-
+
+/home/liudiyang1998/Documents/cplus/Demeter/include/SubCompanyManager.h
+SubEmployee.h
+/home/liudiyang1998/Documents/cplus/Demeter/include/SubEmployee.h
+vector
+-
+
+/home/liudiyang1998/Documents/cplus/Demeter/include/SubEmployee.h
+iostream
+-
+
+/home/liudiyang1998/Documents/cplus/Demeter/src/main.cpp
+../include/CompanyManger.h
+/home/liudiyang1998/Documents/cplus/Demeter/include/CompanyManger.h
+
