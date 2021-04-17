@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/liudiyang1998/Documents/cplus/Facade/include/Fund.h
+Stock1.h
+/home/liudiyang1998/Documents/cplus/Facade/include/Stock1.h
+Stock2.h
+/home/liudiyang1998/Documents/cplus/Facade/include/Stock2.h
+
+/home/liudiyang1998/Documents/cplus/Facade/include/Stock1.h
+iostream
+-
+
+/home/liudiyang1998/Documents/cplus/Facade/include/Stock2.h
+iostream
+-
+
+/home/liudiyang1998/Documents/cplus/Facade/src/Fund.cpp
+../include/Fund.h
+/home/liudiyang1998/Documents/cplus/Facade/include/Fund.h
+
