@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.10)
+project(builder)
+set(CMAKE_CXX_STANDARD 11)
+set(CMAKE_CXX_STANDARD_REQUIRED TRUE)
+find_package(OpenCV 3 REQUIRED)
+include_directories(include ${OpenCV_INCLUDES_DIRS})
+add_subdirectory(src)

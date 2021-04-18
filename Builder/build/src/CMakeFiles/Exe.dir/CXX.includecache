@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/liudiyang1998/Documents/cplus/Builder/include/PersonBuilder.h
+opencv2/core/core.hpp
+-
+opencv2/highgui/highgui.hpp
+-
+opencv2/imgproc.hpp
+-
+iostream
+-
+
+/home/liudiyang1998/Documents/cplus/Builder/include/PersonDirector.h
+PersonFatBuilder.h
+/home/liudiyang1998/Documents/cplus/Builder/include/PersonFatBuilder.h
+PersonThinBuilder.h
+/home/liudiyang1998/Documents/cplus/Builder/include/PersonThinBuilder.h
+
+/home/liudiyang1998/Documents/cplus/Builder/include/PersonFatBuilder.h
+PersonBuilder.h
+/home/liudiyang1998/Documents/cplus/Builder/include/PersonBuilder.h
+
+/home/liudiyang1998/Documents/cplus/Builder/include/PersonThinBuilder.h
+PersonBuilder.h
+/home/liudiyang1998/Documents/cplus/Builder/include/PersonBuilder.h
+
+/home/liudiyang1998/Documents/cplus/Builder/src/main.cpp
+../include/PersonDirector.h
+/home/liudiyang1998/Documents/cplus/Builder/include/PersonDirector.h
+

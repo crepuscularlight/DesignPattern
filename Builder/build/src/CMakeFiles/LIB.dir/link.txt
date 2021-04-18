@@ -1,0 +1,2 @@
+/usr/bin/ar qc libLIB.a  CMakeFiles/LIB.dir/PersonFatBuilder.cpp.o CMakeFiles/LIB.dir/PersonBuilder.cpp.o CMakeFiles/LIB.dir/PersonThinBuilder.cpp.o
+/usr/bin/ranlib libLIB.a
