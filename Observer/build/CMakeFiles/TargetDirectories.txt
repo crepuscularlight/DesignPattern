@@ -1,0 +1,6 @@
+/home/liudiyang1998/Documents/cplus/Observer/build/CMakeFiles/rebuild_cache.dir
+/home/liudiyang1998/Documents/cplus/Observer/build/CMakeFiles/edit_cache.dir
+/home/liudiyang1998/Documents/cplus/Observer/build/src/CMakeFiles/rebuild_cache.dir
+/home/liudiyang1998/Documents/cplus/Observer/build/src/CMakeFiles/edit_cache.dir
+/home/liudiyang1998/Documents/cplus/Observer/build/src/CMakeFiles/LIB.dir
+/home/liudiyang1998/Documents/cplus/Observer/build/src/CMakeFiles/Exe.dir

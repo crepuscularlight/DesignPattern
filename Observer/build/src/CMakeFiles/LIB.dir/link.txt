@@ -1,0 +1,2 @@
+/usr/bin/ar qc libLIB.a  CMakeFiles/LIB.dir/Boss.cpp.o CMakeFiles/LIB.dir/Observer.cpp.o CMakeFiles/LIB.dir/StockObserver.cpp.o CMakeFiles/LIB.dir/Subject.cpp.o
+/usr/bin/ranlib libLIB.a

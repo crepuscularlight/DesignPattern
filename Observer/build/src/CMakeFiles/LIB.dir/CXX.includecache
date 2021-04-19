@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/liudiyang1998/Documents/cplus/Observer/include/Boss.h
+Subject.h
+/home/liudiyang1998/Documents/cplus/Observer/include/Subject.h
+Observer.h
+/home/liudiyang1998/Documents/cplus/Observer/include/Observer.h
+vector
+-
+
+/home/liudiyang1998/Documents/cplus/Observer/include/Observer.h
+iostream
+-
+
+/home/liudiyang1998/Documents/cplus/Observer/include/StockObserver.h
+Observer.h
+/home/liudiyang1998/Documents/cplus/Observer/include/Observer.h
+
+/home/liudiyang1998/Documents/cplus/Observer/include/Subject.h
+Observer.h
+/home/liudiyang1998/Documents/cplus/Observer/include/Observer.h
+iostream
+-
+
+/home/liudiyang1998/Documents/cplus/Observer/src/Boss.cpp
+../include/Boss.h
+/home/liudiyang1998/Documents/cplus/Observer/include/Boss.h
+
+/home/liudiyang1998/Documents/cplus/Observer/src/Observer.cpp
+../include/Observer.h
+/home/liudiyang1998/Documents/cplus/Observer/include/Observer.h
+
+/home/liudiyang1998/Documents/cplus/Observer/src/StockObserver.cpp
+../include/StockObserver.h
+/home/liudiyang1998/Documents/cplus/Observer/include/StockObserver.h
+
+/home/liudiyang1998/Documents/cplus/Observer/src/Subject.cpp
+../include/Subject.h
+/home/liudiyang1998/Documents/cplus/Observer/include/Subject.h
+

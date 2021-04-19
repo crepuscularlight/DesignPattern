@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/Exe.dir/main.cpp.o  -o ../bin/Exe libLIB.a 
