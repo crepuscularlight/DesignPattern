@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.10)
+project(AbstractFactory)
+include_directories(include)
+set(EXECUTABLE_OUTPUT_PATH ${PROJECT_BINARY_DIR}/bin)
+add_library(LIB src/Factory.cpp src/Product.cpp src/Service.cpp)
+add_executable(Exe src/main.cpp)
+target_link_libraries(Exe LIB)

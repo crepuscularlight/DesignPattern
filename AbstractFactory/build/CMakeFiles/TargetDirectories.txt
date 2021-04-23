@@ -1,0 +1,4 @@
+/home/liudiyang1998/Documents/cplus/AbstractFactory/build/CMakeFiles/rebuild_cache.dir
+/home/liudiyang1998/Documents/cplus/AbstractFactory/build/CMakeFiles/edit_cache.dir
+/home/liudiyang1998/Documents/cplus/AbstractFactory/build/CMakeFiles/LIB.dir
+/home/liudiyang1998/Documents/cplus/AbstractFactory/build/CMakeFiles/Exe.dir
